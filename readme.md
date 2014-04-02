@@ -7,3 +7,4 @@ This wiki will be constantly updated.
 * [Ruby on Rails Knowledge](../master/rails.md)
 * [Ruby gems References](../master/gems.md)
 * [Linux/Unix Command References](../master/unix.md)
+* * [Tmux/Tmuxinator References](../master/tmux.md)
