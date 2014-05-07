@@ -50,6 +50,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 ######API Clients and Servers:
 * **rest-client**
 * **grape** (for making REST API, lightweight similar to sinatra)
+* **strong_parameters** (for validating request params in rails rest APIs)
 
 ######CMS:
 * **refineryCMS** [Video 1](http://railscasts.com/episodes/332-refinery-cms-basics) [Video 2](http://railscasts.com/episodes/333-extending-refinery-cms)
