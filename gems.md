@@ -5,6 +5,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 `gem "activeadmin", github: "gregbell/active_admin"`
 * **simple_form**: Form builder [Video](http://railscasts.com/episodes/234-simple-form-revised) 
 * **formtastic**: Another form builder. used in activ_eadmin [Github](https://github.com/justinfrench/formtastic)
+* **cocoon** Dynamic nested forms using jQuery [Github](https://github.com/nathanvda/cocoon)
 * **migrant**: very useful if you are not into writing migrations by hand
  [Github](https://github.com/pascalh1011/migrant)
 * **carrierwave**: file uploads [Video](http://railscasts.com/episodes/253-carrierwave-file-uploads) [Github](https://github.com/carrierwaveuploader/carrierwave) and mini_magick  [MiniMagick integration](http://carrierwave.rubyforge.org/rdoc/classes/CarrierWave/MiniMagick.html)
@@ -20,6 +21,8 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
   * [Video 2](http://railscasts.com/episodes/329-more-on-twitter-bootstrap)
   * **font-awesome-rails**
 * omniauth (See section below)
+* **figaro** YAML-based Rails configiration [Github](https://github.com/laserlemon/figaro)
+* 
 
 
 
@@ -63,7 +66,10 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 ###### Others:
 * **acts-as-taggable-on** [Video](http://railscasts.com/episodes/382-tagging) [link](https://github.com/mbleigh/acts-as-taggable-on)
 * **stateful**
+* **AASM** State Machine [Github](https://github.com/aasm/aasm)
 * **brakeman** (security scan gem)
+* **public_activity** Easy activity tracking for models [Github](https://github.com/pokonski/public_activity)
+* **Ransack** [Github](https://github.com/NARKOZ/holder_rails)
 
 #### Deployment &  Server Administration
 * Heroku
