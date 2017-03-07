@@ -6,12 +6,12 @@ Know the basics of normal web applications
 know the basics of accessing web APIs etc  
 #### Key concepts  
 ##### Model
-* Activerecord Basics
+* Activerecord Basics [Link](http://guides.rubyonrails.org/active_record_basics.html)
 * Model Relationships
-* Migrations
-* Callbacks
+* Migrations [Link](http://edgeguides.rubyonrails.org/active_record_migrations.html)
+* Callbacks [Link](http://guides.rubyonrails.org/active_record_callbacks.html)
 * Query Interface
-* Validations
+* Validations [Link](http://guides.rubyonrails.org/active_record_validations.html)
 * Model Scopes
 * STI (single table inheritance) [Video](http://railscasts.com/episodes/394-sti-and-polymorphic-associations)
 
