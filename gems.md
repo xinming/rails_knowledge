@@ -58,7 +58,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 ###### CMS:
 * **refineryCMS** [Video 1](http://railscasts.com/episodes/332-refinery-cms-basics) [Video 2](http://railscasts.com/episodes/333-extending-refinery-cms)
 ###### Background Tasks:
-* **sidekiq** [Video](http://railscasts.com/episodes/366-sidekiq) [Github](https://github.com/mperham/sidekiq/wiki/Getting-Started)
+* **sidekiq** [Video](http://railscasts.com/episodes/366-sidekiq) | [Github](https://github.com/mperham/sidekiq/wiki/Getting-Started)
 * **resque** [Video](http://railscasts.com/episodes/271-resque)
 * **delay_jobs** [Video](http://railscasts.com/episodes/366-sidekiq) [Github](https://github.com/collectiveidea/delayed_job) [Frontend Github](https://github.com/ejschmitt/delayed_job_web)
 
