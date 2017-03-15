@@ -63,7 +63,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 * **delay_jobs** [Video](http://railscasts.com/episodes/366-sidekiq) [Github](https://github.com/collectiveidea/delayed_job) [Frontend Github](https://github.com/ejschmitt/delayed_job_web)
 
 ###### In-memory database:
-* **redis** [Github](https://github.com/redis-store/redis-rails) [Example](http://www.victorareba.com/tutorials/speed-your-rails-app-with-model-caching-using-redis) [Session store with redis](http://redis-store.org/redis-rails/)
+* **redis** [Github](https://github.com/redis-store/redis-rails) | [Example](http://www.victorareba.com/tutorials/speed-your-rails-app-with-model-caching-using-redis) | [Session store with redis](http://redis-store.org/redis-rails/)
 * **memcache**
 
 
