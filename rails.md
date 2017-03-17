@@ -27,7 +27,7 @@ know the basics of accessing web APIs etc
 * ERB, (Haml, SLIM templating Languages)
 
 ##### Other Frontend Development
-* SASS/SCSS [Video](http://railscasts.com/episodes/268-sass-basics) | [Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate)
+* SASS/SCSS [Video](http://railscasts.com/episodes/268-sass-basics) | [Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate) | [Holistic View](https://s3.amazonaws.com/codecademy-content/courses/Sass/sass_structure.svg)
 * Asset Pipeline [Video](http://railscasts.com/episodes/279-understanding-the-asset-pipeline)
 * Twitter Bootstrap 2.3.2 (not 3) [Link](http://getbootstrap.com/2.3.2/)* 
 * Intermediate/Optional Knowledge:
