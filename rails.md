@@ -27,7 +27,7 @@ know the basics of accessing web APIs etc
 * ERB, (Haml, SLIM templating Languages)
 
 ##### Other Frontend Development
-* SASS/SCSS [Video](http://railscasts.com/episodes/268-sass-basics)
+* SASS/SCSS [Video](http://railscasts.com/episodes/268-sass-basics) | [Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate)
 * Asset Pipeline [Video](http://railscasts.com/episodes/279-understanding-the-asset-pipeline)
 * Twitter Bootstrap 2.3.2 (not 3) [Link](http://getbootstrap.com/2.3.2/)* 
 * Intermediate/Optional Knowledge:
@@ -35,6 +35,7 @@ know the basics of accessing web APIs etc
   * Bower and rails-assets [Link](https://rails-assets.org/)
   * Twitter Bootstrap 3
   * Zurb Foundation
+  * Bulma [Link](http://bulma.io/) | [Bulma-Rails](https://github.com/joshuajansen/bulma-rails)
 <hr />
 
 
