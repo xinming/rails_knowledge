@@ -73,7 +73,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 * **AASM** State Machine [Github](https://github.com/aasm/aasm)
 * **brakeman** (security scan gem)
 * **public_activity** Easy activity tracking for models [Github](https://github.com/pokonski/public_activity)
-* **Ransack** [Github](https://github.com/NARKOZ/holder_rails)
+* **Ransack** Object-based searching. [Github](https://github.com/activerecord-hackery/ransack) | [Demo](http://ransack-demo.herokuapp.com)
 
 #### Deployment &  Server Administration
 * Heroku
