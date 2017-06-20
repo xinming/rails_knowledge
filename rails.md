@@ -19,6 +19,7 @@ know the basics of accessing web APIs etc
 ##### Controller
 * Routes
 * RESTful Resource
+* API Development using `ActiveRecord::Serializer` [Link](https://github.com/rails-api/active_model_serializers)
 
 ##### View
 * Layouts
@@ -36,6 +37,10 @@ know the basics of accessing web APIs etc
   * Twitter Bootstrap 3
   * Zurb Foundation
   * Bulma [Link](http://bulma.io/) | [Bulma-Rails](https://github.com/joshuajansen/bulma-rails)
+
+* React on Rails! [Link] (https://github.com/reactjs/react-rails)
+  * This is propably the easiest way to get use react as front end for rails app
+  * The altenative is to just replace asset pipline with WebPack which will be fully out of the box with Rails 5.1 [Link] (https://medium.com/@hpux/rails-5-1-loves-javascript-a1d84d5318b)
 <hr />
 
 
@@ -48,6 +53,7 @@ know the basics of accessing web APIs etc
 * Bundler [Video](http://railscasts.com/episodes/201-bundler-revised)
 
 <hr />
+
 <!--### Video/Books Recommendations:
 #### Ruby
 #### Rails-->
