@@ -50,17 +50,21 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
   * [Video Facebook authentication](http://railscasts.com/episodes/360-facebook-authentication)
 
 
-######API Clients and Servers:
-* **rest-client**
+###### API Clients and Servers:
+* **rest-client** Simple HTTP and REST client for Ruby. [Github](https://github.com/rest-client/rest-client)
 * **grape** (for making REST API, lightweight similar to sinatra)
 * **strong_parameters** (for validating request params in rails rest APIs)
 
-######CMS:
+###### CMS:
 * **refineryCMS** [Video 1](http://railscasts.com/episodes/332-refinery-cms-basics) [Video 2](http://railscasts.com/episodes/333-extending-refinery-cms)
 ###### Background Tasks:
-* **sidekiq** [Video](http://railscasts.com/episodes/366-sidekiq)
+* **sidekiq** [Video](http://railscasts.com/episodes/366-sidekiq) | [Github](https://github.com/mperham/sidekiq/wiki/Getting-Started)
 * **resque** [Video](http://railscasts.com/episodes/271-resque)
 * **delay_jobs** [Video](http://railscasts.com/episodes/366-sidekiq) [Github](https://github.com/collectiveidea/delayed_job) [Frontend Github](https://github.com/ejschmitt/delayed_job_web)
+
+###### In-memory database:
+* **redis** [Github](https://github.com/redis-store/redis-rails) | [Example](http://www.victorareba.com/tutorials/speed-your-rails-app-with-model-caching-using-redis) | [Session store with redis](http://redis-store.org/redis-rails/)
+* **memcache**
 
 
 ###### Others:
@@ -69,7 +73,7 @@ Remarks: use the master branch on github for now to avoid issues with outdated j
 * **AASM** State Machine [Github](https://github.com/aasm/aasm)
 * **brakeman** (security scan gem)
 * **public_activity** Easy activity tracking for models [Github](https://github.com/pokonski/public_activity)
-* **Ransack** [Github](https://github.com/NARKOZ/holder_rails)
+* **Ransack** Object-based searching. [Github](https://github.com/activerecord-hackery/ransack) | [Demo](http://ransack-demo.herokuapp.com)
 
 #### Deployment &  Server Administration
 * Heroku
